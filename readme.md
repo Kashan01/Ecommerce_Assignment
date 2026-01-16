@@ -24,6 +24,13 @@ A concurrency-safe E-commerce backend designed to handle high-traffic inventory 
 
 frontend
 
+Env varialbes /
 
+NODE_ENV=development
+PORT=3000
+DATABASE_URI=url
+DATABASE_PASSWORD=your_actual_password
+JWT_SECRET=this-is-my-ultra-secure-long-secret-key-for-jwt
+JWT_EXPIRES_IN=90d
 
 Can you continue testing with test@gmail.com user
