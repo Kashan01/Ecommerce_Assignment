@@ -23,3 +23,7 @@ A concurrency-safe E-commerce backend designed to handle high-traffic inventory 
    node server.js
 
 frontend
+
+
+
+Can you continue testing with test@gmail.com user
